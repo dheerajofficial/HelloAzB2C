@@ -9,3 +9,11 @@ dotnet add package System.Text.Json
 dotnet add package 
 dotnet add package 
 dotnet add package 
+
+
+
+TENANT: edulabworksB2C.onmicrosoft.com
+
+DOMAIN: https://edulabworksB2C.b2clogin.com
+
+https://edulabworksb2c.b2clogin.com/edulabworksB2C.onmicrosoft.com/B2C_1A_SIGNUP_SIGNIN/v2.0/.well-known/openid-configuration

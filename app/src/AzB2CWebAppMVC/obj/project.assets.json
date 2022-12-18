@@ -3538,9 +3538,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\AzB2CWebAppMVC.csproj",
-      "projectName": "AzB2CWebAppMVC",
-      "projectPath": "D:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\AzB2CWebAppMVC.csproj",
+      "projectUniqueName": "D:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\AzB2CWebApp.csproj",
+      "projectName": "AzB2CWebApp",
+      "projectPath": "D:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\AzB2CWebApp.csproj",
       "packagesPath": "C:\\Users\\Dheeraj\\.nuget\\packages\\",
       "outputPath": "D:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emEmzNqRlbTPT0MMOEsX2tBAMGw2GTHklfmGFiS1d5ksC57Qqhzomws7PwA0Hav8VyWDNW1uOpjncT8ndu664w==",
+  "dgSpecHash": "FHtVyDXnKXYsrD1OWrpipeLpRAFv2jqY5SvQ9fZE4l5vHmq63pXLOfQRLuMH7cW0ppzyJtw4XOKbz5ODYC1DMA==",
   "success": true,
-  "projectFilePath": "D:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\AzB2CWebAppMVC.csproj",
+  "projectFilePath": "D:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\AzB2CWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dheeraj\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Dheeraj\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
