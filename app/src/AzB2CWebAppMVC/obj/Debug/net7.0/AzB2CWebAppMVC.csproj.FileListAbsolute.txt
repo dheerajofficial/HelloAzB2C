@@ -1,0 +1,8 @@
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.csproj.AssemblyReference.cache
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.AssemblyInfoInputs.cache
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.AssemblyInfo.cs
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.csproj.CoreCompileInputs.cache
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.RazorAssemblyInfo.cache
+D:\source\gh\HelloAzB2C\app\src\AzB2CWebAppMVC\obj\Debug\net7.0\AzB2CWebAppMVC.RazorAssemblyInfo.cs
