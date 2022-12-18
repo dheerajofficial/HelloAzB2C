@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\AzADWebApp.csproj",
+  "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\AzB2CWebAppMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16552,41 +16552,56 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "AzADWebApp",
+  "RootNamespace": "AzB2CWebAppMVC",
   "Documents": [
     {
-      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzADWebApp\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Home\\Homeowner.cshtml",
+      "TargetPath": "Views\\Home\\Homeowner.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Home\\Contractor.cshtml",
+      "TargetPath": "Views\\Home\\Contractor.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\source\\gh\\HelloAzB2C\\app\\src\\AzB2CWebAppMVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
